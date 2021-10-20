@@ -1,0 +1,5 @@
+* {
+  transition: all 1s;
+  transform: rotate(45deg);
+  display: flex;
+}
